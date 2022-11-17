@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChikangaTakudzwa
-- 👀 I’m interested in Full stack web dev, CLoud computing and Open source even though i havent contributed to any open source yet i look forward to
-- 🌱 I’m currently learning Front end frameworks
+- 👀 I’m interested in full stack web dev, cloud computing and open source even though i havent contributed to any open source yet i look forward to
+- 🌱 I’m currently learning front end frameworks
 - 💞️ I’m looking to collaborate on open source, open source i want open source and other projects too.
 - 📫 How to reach me chikangatakudzwa@outlook.com
 

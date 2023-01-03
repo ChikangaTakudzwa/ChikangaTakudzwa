@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chikangatakudzwa&show_icons=true&locale=en" alt="chikangatakudzwa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chikangatakudzwa&" alt="chikangatakudzwa" /></p>
+
+<a href="https://app.daily.dev/ChikangaTakudzwa"><img src="https://api.daily.dev/devcards/964aa6aabe0642419c151a6e7942603e.png?r=dbj" width="400" alt="ChikangaTakudzwa's Dev Card"/></a>

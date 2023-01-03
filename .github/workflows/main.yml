@@ -16,5 +16,6 @@ jobs:
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.4
-        with: ${{ secrets.DEVCARD_ID }}
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChikangaTakudzwa</h1>
-<h3 align="center">A passionate Fullstack developer, DevOps and a Cloud Developer</h3>
+<h3 align="center">A passionate Fullstack developer, DevOps and Cloud Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/chikangamaine" target="blank"><img src="https://img.shields.io/twitter/follow/chikangamaine?logo=twitter&style=for-the-badge" alt="chikangamaine" /></a> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChikangaTakudzwa</h1>
-<h3 align="center">A passionate Fullstack Cloud developer, DevOps Engineer</h3>
+<h3 align="center">A passionate Fullstack Cloud Developer, DevOps Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/chikangamaine" target="blank"><img src="https://img.shields.io/twitter/follow/chikangamaine?logo=twitter&style=for-the-badge" alt="chikangamaine" /></a> </p>
 
@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **HTMX, REACT AND AWS**
 
-- 👯 I’m looking to collaborate on **an upcoming project i will post it when i start working on it**
+- 👯 I’m looking to collaborate on **open source projects, i am a big fan of open source**
 
-- 🤝 I’m looking for help with **a project, will post it up when im working on it**
+- 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [still making my portfolio](still making my portfolio)
+- 👨‍💻 All of my projects are available at [](WIP Protfolio)
 
 - 📝 I regularly write articles on [https://app.daily.dev/ChikangaTakudzwa](https://app.daily.dev/ChikangaTakudzwa)
 
-- 💬 Ask me about **HTML, CSS, Tailwindcss, Python, Django and Bootstrap**
+- 💬 Ask me about **HTML, CSS, Tailwind, Python, Django and Bootstrap**
 
 - 📫 How to reach me **chikangatakudzwa@outlook.com**
 

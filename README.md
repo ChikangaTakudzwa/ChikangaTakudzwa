@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChikangaTakudzwa</h1>
 <h3 align="center">A passionate Fullstack Cloud Developer, DevOps Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/chikanga_tk" target="blank"><img src="https://img.shields.io/twitter/follow/chikangamaine?logo=twitter&style=for-the-badge" alt="chikanga_tk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chikanga_tk" target="blank"><img src="https://img.shields.io/twitter/follow/chikanga_tk?logo=twitter&style=for-the-badge" alt="chikanga_tk" /></a> </p>
 
 - 🔭 I’m currently working on [an eCommerce website](https://github.com/ChikangaTakudzwa/eCommerce)
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects, i am a big fan of open source**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [](WIP Protfolio)
 

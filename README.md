@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [](WIP Protfolio)
 
-- 📝 I regularly write articles on [https://app.daily.dev/ChikangaTakudzwa](https://app.daily.dev/ChikangaTakudzwa)
+- 📝 I regularly write articles on [https://medium.com/@chikangatk](https://medium.com/@chikangatk)
 
 - 💬 Ask me about **HTML, CSS, Tailwind, Python, Django and Bootstrap**
 

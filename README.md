@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChikangaTakudzwa</h1>
-<h3 align="center">A passionate Fullstack Cloud Developer, DevOps Engineer</h3>
+<h3 align="center">A passionate Fullstack Cloud Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/chikanga_tk" target="blank"><img src="https://img.shields.io/twitter/follow/chikanga_tk?logo=twitter&style=for-the-badge" alt="chikanga_tk" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [](WIP Protfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@chikangatk](https://medium.com/@chikangatk)
+- 📝 I regularly write articles on [Medium](https://medium.com/@chikangatk)
 
 - 💬 Ask me about **HTML, CSS, Tailwind, Python, Django and Bootstrap**
 

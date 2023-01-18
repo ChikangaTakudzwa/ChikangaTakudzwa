@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [an eCommerce website](https://github.com/ChikangaTakudzwa/eCommerce)
 
-- 🌱 I’m currently learning **HTMX, REACT AND AWS**
+- 🌱 I’m currently learning more of **Frontend development**
 
 - 👯 I’m looking to collaborate on **open source projects, i am a big fan of open source**
 

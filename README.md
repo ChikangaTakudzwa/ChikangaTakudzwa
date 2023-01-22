@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects, i am a big fan of open source**
 
-- 🤝 I’m looking for help with **DSA**
+<!-- - 🤝 I’m looking for help with **DSA** -->
 
 - 👨‍💻 All of my projects are available at [](WIP Protfolio)
 

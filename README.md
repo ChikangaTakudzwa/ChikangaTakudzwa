@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/chikanga_tk" target="blank"><img src="https://img.shields.io/twitter/follow/chikanga_tk?logo=twitter&style=for-the-badge" alt="chikanga_tk" /></a> </p>
 
-- 🔭 I’m currently working on an [eCommerce website](https://github.com/ChikangaTakudzwa/eCommerce)
+- 🔭 I’m currently working on an [API Project](https://github.com/ChikangaTakudzwa/api-project)
 
 - 🌱 I’m currently learning more of **Frontend development**
 

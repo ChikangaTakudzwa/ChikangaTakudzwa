@@ -68,8 +68,10 @@ window.addEventListener('DOMContentLoaded', () => {
     function toggleElement() {
         if (window.innerWidth < 640) { // hide on screen size sm
             mainNav.classList.add('hidden');
+            menuToggle.classList.remove('hidden');
         } else {
             menuToggle.classList.add('hidden');
+            mainNav.classList.remove('hidden');
         }
     }
     window.addEventListener('resize', toggleElement);

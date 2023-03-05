@@ -7,6 +7,13 @@ npm install -D tailwindcss
 
 echo "....................."
 echo "....................."
+echo "Installing Flowbite"
+echo "....................."
+echo "....................."
+npm install flowbite
+
+echo "....................."
+echo "....................."
 echo "Running Tailwind init"
 echo "....................."
 echo "....................."

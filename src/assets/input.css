@@ -14,6 +14,25 @@
   
   /* Add a custom scrollbar */
   ::-webkit-scrollbar-thumb {
-    background-color: #1248D8;
+    background-color: #1F2937;
     border-radius: 0.4rem;
+  }
+
+  /* Role Animation */
+  @keyframes myrole {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  .myrole span {
+    animation-name: myrole;
+    animation-duration: 2s;
+    animation-timing-function: steps(12);
+    animation-iteration-count: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
   }

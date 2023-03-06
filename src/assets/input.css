@@ -47,3 +47,14 @@
   .hidden {
     display: none;
   }
+
+  /* Scroll to top */
+
+  #btn-back-to-top {
+    position: fixed;
+    display: none;
+  }
+
+  .scroll-padding-top {
+    scroll-padding-top: 100px; /* set the padding value as needed */
+  }

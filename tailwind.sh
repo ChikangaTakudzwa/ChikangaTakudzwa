@@ -14,6 +14,13 @@ npm install flowbite
 
 echo "....................."
 echo "....................."
+echo "Installing TW Elements"
+echo "....................."
+echo "....................."
+npm install tw-elements
+
+echo "....................."
+echo "....................."
 echo "Running Tailwind init"
 echo "....................."
 echo "....................."

@@ -31,12 +31,16 @@ const words = ["Full Stack Web Developer", "UI/UX Designer", "DevOps and Cloud N
 
   // Add a click event listener to the document
   document.addEventListener('click', function (event) {
+
   // Check if the clicked element is a link with a hash in the href attribute
   if (event.target.tagName === 'A' && event.target.getAttribute('href').startsWith('#')) {
+
     // Prevent default link behavior
     event.preventDefault();
+
     // Get the target element ID
     var targetId = event.target.hash;
+    
     // Scroll to the target element
     smoothScroll(targetId, 1000);
   }
@@ -115,3 +119,36 @@ function backToTop() {
 }
 
 // End Back to top
+
+
+// Menu Toggle
+
+const btn = document.getElementById('menu-toggle');
+const menu = document.getElementById('navbar-default');
+
+function toggleNav() {
+  menu.classList.toggle('show');
+}
+
+btn.addEventListener('click', toggleNav);
+
+// Check if viewport width is less than 768 pixels
+const mediaQuery = window.matchMedia('(max-width: 768px)');
+
+if (mediaQuery.matches) {
+  // Apply toggle functionality
+  btn.style.display = 'block';
+  menu.classList.remove('show');
+} else {
+  // Remove toggle functionality
+  btn.style.display = 'none';
+  menu.classList.add('show');
+}
+
+// Year
+
+// Get the current year
+var currentYear = new Date().getFullYear();
+
+// Set the year in the footer
+document.getElementById("year").innerHTML = currentYear;

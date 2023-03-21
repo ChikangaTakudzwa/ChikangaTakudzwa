@@ -5,6 +5,8 @@ echo "....................."
 echo "....................."
 npm install -D tailwindcss
 
+npm i daisyui
+
 echo "....................."
 echo "....................."
 echo "Installing Flowbite"

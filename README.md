@@ -8,6 +8,7 @@
 <a href="https://twitter.com/chikangamaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chikangamaine" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chikangatakudzwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chikangatakudzwa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14536017/tornado-zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14536017/tornado-zw" height="30" width="40" /></a>
+<a href="https://medium.com/@chikangatk" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="articles" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

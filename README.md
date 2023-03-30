@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChikangaTakudzwa</h1>
-<h3 align="center">A Passionate Fullstack Cloud Developer</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

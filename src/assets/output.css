@@ -9313,6 +9313,11 @@ html {
   margin-bottom: 0px;
 }
 
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .my-6 {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
@@ -9328,9 +9333,14 @@ html {
   margin-bottom: 5px;
 }
 
-.my-4 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .-ml-1 {
@@ -9435,14 +9445,6 @@ html {
 
 .mt-\[3px\] {
   margin-top: 3px;
-}
-
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
-.mb-5 {
-  margin-bottom: 1.25rem;
 }
 
 .box-border {
@@ -9649,6 +9651,10 @@ html {
   height: 4px;
 }
 
+.h-\[50vh\] {
+  height: 50vh;
+}
+
 .h-\[512px\] {
   height: 512px;
 }
@@ -9683,14 +9689,6 @@ html {
 
 .h-screen {
   height: 100vh;
-}
-
-.h-\[0vh\] {
-  height: 0vh;
-}
-
-.h-\[50vh\] {
-  height: 50vh;
 }
 
 .max-h-\[calc\(100\%-64px\)\] {
@@ -11361,9 +11359,9 @@ html {
   background-color: rgb(39 39 42 / var(--tw-bg-opacity));
 }
 
-.bg-red-800 {
+.bg-gray-600 {
   --tw-bg-opacity: 1;
-  background-color: rgb(155 28 28 / var(--tw-bg-opacity));
+  background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-50 {
@@ -11692,11 +11690,6 @@ html {
 .py-\[5px\] {
   padding-top: 5px;
   padding-bottom: 5px;
-}
-
-.py-5 {
-  padding-top: 1.25rem;
-  padding-bottom: 1.25rem;
 }
 
 .pb-0 {
@@ -13017,9 +13010,22 @@ html {
   border-radius: 50%;
 }
 
+.hover\:border:hover {
+  border-width: 1px;
+}
+
 .hover\:border-gray-300:hover {
   --tw-border-opacity: 1;
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
+}
+
+.hover\:border-gray-50:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(249 250 251 / var(--tw-border-opacity));
+}
+
+.hover\:border-transparent:hover {
+  border-color: transparent;
 }
 
 .hover\:bg-\[\#00000014\]:hover {
@@ -13072,6 +13078,11 @@ html {
 .hover\:bg-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-gray-600:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
 .hover\:fill-\[\#8b8b8b\]:hover {
@@ -14186,12 +14197,12 @@ html {
     width: 50vw;
   }
 
-  .md\:w-auto {
-    width: auto;
-  }
-
   .md\:w-\[70vw\] {
     width: 70vw;
+  }
+
+  .md\:w-auto {
+    width: auto;
   }
 
   .md\:max-w-\[720px\] {
